@@ -1,0 +1,5 @@
+flask
+threading
+torch
+cv2
+numpy
