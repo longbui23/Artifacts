@@ -129,3 +129,4 @@ Postman testing API
 --> Future implementation of zooming in the chosen product when clicking onß
 
 ### b) Demonstration
+https://github.com/longbui23/Artifacts/blob/main/FindMe/Screen%20Recording%202025-01-03%20at%2019.12.42.mov
